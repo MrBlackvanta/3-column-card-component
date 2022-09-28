@@ -6,3 +6,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 ---
+* Overview
+  * The challenge
+  * Links
+* My process
+  * Built with
+* Author
